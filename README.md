@@ -1,28 +1,32 @@
-🧮 Calculate Me!
-A basic calculator built with HTML, CSS, and JavaScript. This project was created to perform simple arithmetic operations and practice DOM manipulation using JavaScript.
+# 🧮 Calculate Me!
 
-✨ Features
-Basic operations: addition, subtraction, multiplication, division
+**Calculate Me** is a simple, responsive web-based calculator built using HTML, CSS, and JavaScript. This project was developed to perform basic arithmetic operations and to enhance skills in DOM manipulation and UI design using vanilla JavaScript.
 
-Clear (C) button to reset input
+## 🌐 Live Demo
 
-Simple and clean UI
+🔗 [View Project on GitHub Pages](https://maayanbhatti.github.io/Calculator/)  
 
-Responsive layout using utility classes
+---
 
-🛠️ Technologies Used
-HTML5
+## ✨ Features
 
-CSS3
+- ➕ Addition  
+- ➖ Subtraction  
+- ✖️ Multiplication  
+- ➗ Division  
+- 🧼 Clear (`C`) button to reset input  
+- 📱 Responsive layout  
+- 🎨 Clean and minimal UI using utility classes  
 
-JavaScript (Vanilla)
+---
 
-📂 Project Structure
-index.html – layout of the calculator
+## 🛠️ Built With
 
-style.css – basic styling for buttons and input
+- **HTML5** – Structure and layout  
+- **CSS3** – Styling and responsiveness  
+- **JavaScript (Vanilla)** – Logic and event handling
 
-script.js – handles button click logic and calculations
+---
 
-utils.css – utility classes for layout and alignment
+## 📁 Project Structure
 
